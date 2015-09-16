@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+
+\bibitem{Krotov2014}
+Dmitry Krotov, Julien~O. Dubuis, Thomas Gregor, and William Bialek.
+\newblock Morphogenesis at criticality.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  111(10):3683--3688, 2014.
+
+\bibitem{Goldenfeld1992}
+Nigel Goldenfeld.
+\newblock {\em Lectures on phase transitions and the renormalization group},
+  volume~5.
+\newblock Addison-Wesley Reading, MA, 1992.
+
+\bibitem{Hohenberg1977}
+P.~C. Hohenberg and B.~I. Halperin.
+\newblock Theory of dynamic critical phenomena.
+\newblock {\em Rev. Mod. Phys.}, 49(3):435--479, July 1977.
+
+\bibitem{Glauber1963}
+Roy~J. Glauber.
+\newblock Time‐dependent statistics of the ising model.
+\newblock {\em Journal of Mathematical Physics}, 4(2):294--307, 1963.
+
+\bibitem{AbramowitzStegun}
+M.~{Abramowitz} and I.~A. {Stegun}.
+\newblock {\em {Handbook of mathematical functions with formulas, graphs, and
+  mathematical tables}}.
+\newblock 1965.
+
+\bibitem{Gillespie2000}
+Daniel~T. Gillespie.
+\newblock The chemical langevin equation.
+\newblock {\em The Journal of Chemical Physics}, 113(1):297--306, 2000.
+
+\end{thebibliography}

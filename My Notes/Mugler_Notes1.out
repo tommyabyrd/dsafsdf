@@ -1,0 +1,35 @@
+\BOOKMARK [0][-]{chapter.1}{Questions / summary}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Questions}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Summary so far}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Correspondence and differences between LEGI and TDGL}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Species - equations of motion}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Noninteracting equation}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.1}{Solving the non-interacting equation in one dimension}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.2}{Higher dimensions}{section.2.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Discrete case}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.3.1}{A note about periodic boundary conditions}{section.2.3}% 10
+\BOOKMARK [2][-]{subsection.2.3.2}{Gillespie derivation of the noise power-spectrum}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.3}{Alternative derivation for linear reactions}{section.2.3}% 12
+\BOOKMARK [1][-]{section.2.4}{Correlated Noise}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.4.1}{Back to LEGI}{section.2.4}% 14
+\BOOKMARK [1][-]{section.2.5}{Introducing non-linearity}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{Critical phenomena in Landau theory - simple}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Correlation function and length}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Correlation function - Landau mean field}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.2.1}{Mean-field theory vs. Gaussian theory}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.2}{Translationally invariant system}{section.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.2.3}{Inhomogeneous system}{section.3.2}% 21
+\BOOKMARK [0][-]{chapter.4}{Correlation function in homogeneous Langevin system with two noise terms}{}% 22
+\BOOKMARK [1][-]{section.4.1}{Lagrangian and equation of motion in one dimension}{chapter.4}% 23
+\BOOKMARK [2][-]{subsection.4.1.1}{Lagrangian}{section.4.1}% 24
+\BOOKMARK [2][-]{subsection.4.1.2}{Dynamics}{section.4.1}% 25
+\BOOKMARK [2][-]{subsection.4.1.3}{Units}{section.4.1}% 26
+\BOOKMARK [1][-]{section.4.2}{Solution in k-space}{chapter.4}% 27
+\BOOKMARK [0][-]{chapter.5}{Mapping the discrete equation for the correlation function to the Landau version}{}% 28
+\BOOKMARK [0][-]{chapter.6}{Gaussian Field Theory}{}% 29
+\BOOKMARK [0][-]{chapter.7}{The Fokker-Planck equation}{}% 30
+\BOOKMARK [1][-]{section.7.1}{Single Cell}{chapter.7}% 31
+\BOOKMARK [2][-]{subsection.7.1.1}{Extremizing Pn}{section.7.1}% 32
+\BOOKMARK [2][-]{subsection.7.1.2}{Bimodality criterion}{section.7.1}% 33
+\BOOKMARK [2][-]{subsection.7.1.3}{Matching the temperature}{section.7.1}% 34
+\BOOKMARK [1][-]{section.7.2}{Two cells communicating by diffusion}{chapter.7}% 35
